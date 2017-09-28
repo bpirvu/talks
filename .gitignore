@@ -26,4 +26,3 @@ metastore_db
 # Ignore all .DS_Store files on Mac OS-X
 .DS_Store
 ._.DS_Store
-
