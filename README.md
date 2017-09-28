@@ -1,6 +1,6 @@
 # Talks
 
-## Talk at the A1 Business Intelligence Competence Center on 2017/09/27
+## 2017/09/27 - Talk at the A1 Business Intelligence Competence Center 
 
 The slides for this talk can be found [here](http://bit.ly/data-science-with-python-2017-09-27).
 
