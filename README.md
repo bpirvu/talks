@@ -13,3 +13,8 @@ The slides for this talk can be found [here as pdf](http://bit.ly/recommender-sy
 ## 2018/02/06 - Personalized Product Recommendations (talk at the ICE VOX 2018 Conference)
 
 The slides for this talk can be found [here as pdf](http://bit.ly/personalized-product-recommendations-2018-02-06). Here is the [event link](https://www.icetotallygaming.com/data-science-and-personalisation#/).
+
+## 2018/09/11 - Recommender Systems in a Nutshell (talk at the VlbgWebDev Meetup)
+
+The slides for this talk can be found [here as pdf](http://bit.ly/recommender-systems-vbgwebdev-180911). Here is the [event link](https://www.meetup.com/VlbgWebDev/events/253213038/).
+
