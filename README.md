@@ -18,3 +18,7 @@ The slides for this talk can be found [here as pdf](http://bit.ly/personalized-p
 
 The slides for this talk can be found [here as pdf](http://bit.ly/recommender-systems-vbgwebdev-180911). Here is the [event link](https://www.meetup.com/VlbgWebDev/events/253213038/).
 
+## 2021/03/09 - Tensor Network Machine Learning - An Introduction (talk at the Modul University - Research Seminar Series)
+
+The slides for this talk can be found [here as pdf](http://bit.ly/tensor-network-machine-learning-2021-03-09). Here is the [event link](https://www.modul.ac.at/research/research-seminars).
+
